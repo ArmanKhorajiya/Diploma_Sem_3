@@ -12,7 +12,7 @@ void main()
 	scanf("%d",&n);
 	do
 	{
-		printf("enter 1 for puch\n");
+		printf("enter 1 for push\n");
 		printf("enter 2 for pop\n");
 		printf("enter 3 for peep\n");
 		printf("enter 4 for change\n");
